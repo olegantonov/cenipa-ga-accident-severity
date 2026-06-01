@@ -1,7 +1,7 @@
 # Pilot flight experience and accident severity in Brazilian general aviation
 
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
-[![Data & text: CC BY 4.0](https://img.shields.io/badge/data%20%26%20text-CC%20BY%204.0-lightgrey.svg)](LICENSE-data-and-text.md)
+[![Data & text: CC BY 4.0](https://img.shields.io/badge/data%20%26%20text-CC%20BY%204.0-lightgrey.svg)](CC-BY-4.0.md)
 
 Reproducible research compendium for a register-based, cross-sectional study of
 whether **pilot-in-command (PIC) flight experience** is associated with the
@@ -53,7 +53,7 @@ the de-identified analytic dataset, the figures, and the manuscript.
 ├── requirements.txt
 ├── CITATION.cff
 ├── LICENSE                 # MIT (code)
-└── LICENSE-data-and-text.md# CC BY 4.0 (data, figures, manuscript)
+└── CC-BY-4.0.md# CC BY 4.0 (data, figures, manuscript)
 ```
 
 **Not included** (by design): the raw report PDFs (~3 GB; re-downloadable via
@@ -111,7 +111,7 @@ See [`CITATION.cff`](CITATION.cff). The manuscript bibliography is in
 
 - **Source code** (`*.py`): MIT — see [`LICENSE`](LICENSE).
 - **Manuscript, figures, derived data**: CC BY 4.0 — see
-  [`LICENSE-data-and-text.md`](LICENSE-data-and-text.md).
+  [`CC-BY-4.0.md`](CC-BY-4.0.md).
 - **Underlying CENIPA CSVs**: Brazilian government open data (public).
 
 ## Use of generative AI
