@@ -16,6 +16,12 @@ SLIDES_AULAS/
 *.env
 .env
 
+# ---- Scripts exploratórios / becos sem saída (mantidos localmente, fora do repo) ----
+explorar.py
+explorar_form.py
+explorar_patchright.py
+baixar_relatorios.py
+
 # ---- Artefatos de scraping/debug ----
 page.html
 form_real.html
