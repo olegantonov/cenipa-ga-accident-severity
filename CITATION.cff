@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, data, or findings, please cite as below."
+title: "Pilot flight experience and accident severity in Brazilian general aviation: code, data and manuscript"
+abstract: >-
+  Reproducible research compendium for a register-based, cross-sectional study
+  of whether pilot-in-command flight experience is associated with the severity
+  (fatal vs non-fatal) of general-aviation airplane accidents in Brazil
+  (2007–2024), using CENIPA final reports and open data. Includes the data
+  pipeline (scraping, PDF text/flight-hour extraction, dataset assembly),
+  the statistical analysis, the de-identified analytic dataset, figures, and
+  the manuscript.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Marques
+    email: Admin@danielmarques.org
+year: 2026
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/olegantonov/cenipa-ga-accident-severity"
+keywords:
+  - general aviation
+  - accident severity
+  - pilot experience
+  - flight hours
+  - logistic regression
+  - CENIPA

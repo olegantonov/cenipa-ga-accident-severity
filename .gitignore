@@ -1,0 +1,39 @@
+# ---- Dados brutos grandes (rebaixáveis; não versionados) ----
+pdfs/
+extraidos/
+
+# ---- Materiais de terceiros com COPYRIGHT (não redistribuir) ----
+artigos/
+DETALHES JOURNAL/
+
+# ---- Não relacionado ao estudo ----
+SLIDES_AULAS/
+
+# ---- Ambiente / sensível ----
+.venv/
+.browser_profile/
+.claude/
+*.env
+.env
+
+# ---- Artefatos de scraping/debug ----
+page.html
+form_real.html
+form_real.json
+form_dump.json
+alvos.json
+resultado.csv
+*.log
+*.ods
+.~lock.*#
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- SO / editores ----
+.DS_Store
+Thumbs.db
+*.swp
