@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-NOTE: The MIT license above applies to the SOURCE CODE in this repository
-(the *.py scripts). The manuscript, figures, derived datasets, and other
-non-code research materials are licensed separately under CC BY 4.0 — see
-LICENSE-data-and-text.md.
