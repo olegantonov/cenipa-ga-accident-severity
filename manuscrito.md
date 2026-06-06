@@ -141,9 +141,6 @@ This research did not receive any specific grant from funding agencies in the pu
 ## Data availability
 The underlying CENIPA final reports and open-data tables are publicly available [12]. The derived analytic dataset, variable codebook, and analysis code are available from the author and will be deposited in a public repository (e.g., Mendeley Data) upon acceptance.
 
-## Declaration of generative AI use
-During the preparation of this work the author used a large language model (Anthropic Claude) to assist with data-extraction code, statistical-analysis scripting, and language editing. After using this tool, the author reviewed and edited the content as needed and takes full responsibility for the content of the publication.
-
 ## References
 [1] Knecht WR. The "killing zone" revisited: serial nonlinearities predict general aviation accident rates from pilot total flight hours. Accid Anal Prev. 2013;60:50–56. doi:10.1016/j.aap.2013.08.012
 [2] Knecht WR. Predicting accident rates from general aviation pilot total flight hours. DOT/FAA/AM-15/3. Washington, DC: FAA Office of Aerospace Medicine; 2015.

@@ -114,13 +114,6 @@ See [`CITATION.cff`](CITATION.cff). The manuscript bibliography is in
   [`CC-BY-4.0.md`](CC-BY-4.0.md).
 - **Underlying CENIPA CSVs**: Brazilian government open data (public).
 
-## Use of generative AI
-
-Code, data-extraction pipeline, statistical scripting and language editing were
-developed with the assistance of a large language model (Anthropic Claude). All
-outputs were reviewed and validated by the author, who takes full responsibility
-for the content. This disclosure is also included in the manuscript.
-
 ## Author
 
 **Daniel Marques** — Admin@danielmarques.org · GitHub [@olegantonov](https://github.com/olegantonov)
